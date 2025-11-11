@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "building-rest-apis",
+      "title": "Building REST APIs with FastAPI framework",
+      "description": "In this assignment, students will learn how to build a RESTful API using the FastAPI framework.",
+      "path": "assignments/building-rest-apis",
+      "dueDate": "2025-11-18"
     }
   ]
 }
